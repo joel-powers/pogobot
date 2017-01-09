@@ -1,0 +1,5 @@
+{
+    "id": "This should be set to your bot's 'Client ID' ",
+    "username": "The bot's Username",
+    "token": "The token is normally hidden and must be relvealed in the settings"
+}
