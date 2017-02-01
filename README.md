@@ -1,3 +1,5 @@
+https://david-dm.org/joel-powers/pogobot.svg
+
 # PogoBot
 
 PogoBot is a simple (for now) Discord bot, utilizing [discord.js](https://github.com/hydrabolt/discord.js/).
