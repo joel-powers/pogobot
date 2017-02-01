@@ -1,4 +1,4 @@
-https://david-dm.org/joel-powers/pogobot.svg
+![dependency status](https://david-dm.org/joel-powers/pogobot.svg)
 
 # PogoBot
 
