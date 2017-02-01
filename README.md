@@ -1,4 +1,10 @@
-![dependency status](https://david-dm.org/joel-powers/pogobot.svg)
+<div>
+ <br />
+  <p>
+    <a href="https://discord.gg/U9AvA5V"><img src="https://discordapp.com/api/guilds/264078030144667649/widget.png" alt="Discord server" /></a>
+    <a href="https://david-dm.org/hydrabolt/discord.js"><img src="https://img.shields.io/david/hydrabolt/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
+  </p>
+</div>
 
 # PogoBot
 
